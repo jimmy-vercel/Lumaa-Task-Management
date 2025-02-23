@@ -65,4 +65,4 @@ Monthly rate: $4000
 
 ### Video demo link
 
-https://google.com
+[Watch here](https://www.awesomescreenshot.com/video/36919200?key=025665e0e24aa541836fbb7933f29a32)
