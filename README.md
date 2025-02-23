@@ -54,4 +54,15 @@
       $ npm run test:watch     # run the tests in watch mode
       $ npm run test:coverage  # generate tests coverage report
       ```
-    
+
+# Other notes
+
+### Salary Expectations
+
+Hourly rate: $25
+
+Monthly rate: $4000
+
+### Video demo link
+
+https://google.com
